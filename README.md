@@ -1,5 +1,7 @@
 # Hello World, OpenUI5 
 
+_To navigate the examples just clone the repo and run `npm run start`._
+
 This repository contains the three steps from OpenUI5 documentation "Quick Start"/"Hello World" tutorial in three different files/entry points: index_1.html, index_2.html and index_3.html. Also, views and controllers have a number indicating the step they are part of.
 
 - App 1 constructs the view using JavaScript code inside the controller.
