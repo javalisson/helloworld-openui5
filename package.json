@@ -1,0 +1,28 @@
+{
+  "name": "helloworld-openui5",
+  "version": "1.0.0",
+  "description": "The three steps from OpenUI5 documentation \"Quick Start\"/\"Hello World\" tutorial.",
+  "scripts": {
+    "start": "ws --directory webapp --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javalisson/helloworld-openui5.git"
+  },
+  "keywords": [
+    "openui5",
+    "ui5",
+    "sapui5",
+    "helloworld"
+  ],
+  "author": "JavAlisson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javalisson/helloworld-openui5/issues"
+  },
+  "homepage": "https://github.com/javalisson/helloworld-openui5#readme",
+  "dependencies": {
+    "local-web-server": "^3.0.7"
+  }
+}
